@@ -1,0 +1,1 @@
+ "This project is related to CS50 Web programming with Python and Javascript course"  
